@@ -3,4 +3,4 @@
 ## 2022
 
 * [Dotnet Advent](https://dotnet.christmas)
-* [C# Advent](https://csharp.christmas)
+* [C# Advent](https://csadvent.christmas)
