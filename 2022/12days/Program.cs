@@ -18,10 +18,8 @@ var numWordDict = new Dictionary<int, string>
     { 12, "twelve" }
 };
 
-var vowels = new List<char>
-{
-    'a', 'e', 'i', 'o', 'u'
-};
+// per a comment from James Curran, simplifying.
+var vowels = "aeiou";
 
 var specialWords = new Dictionary<string, string>
 {
