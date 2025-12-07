@@ -1,0 +1,703 @@
+[
+  {
+    "type": "singleSelect",
+    "question": "Which country is credited with starting the tradition of the Christmas tree?",
+    "options": ["Norway", "United States", "France", "Germany"],
+    "answer": [3],
+    "explanation": "Germany popularized the Christmas tree tradition in the 16th century."
+  },
+  {
+    "type": "singleSelect",
+    "question": "In the song 'The Twelve Days of Christmas', what is given on the fifth day?",
+    "options": ["Turtle doves", "French hens", "Golden rings", "Calling birds"],
+    "answer": [2],
+    "explanation": "The fifth day gift is 'five golden rings'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What beverage is traditionally left out for Santa Claus on Christmas Eve?",
+    "options": ["Apple cider", "Milk", "Eggnog", "Hot chocolate"],
+    "answer": [1],
+    "explanation": "Milk is commonly left out with cookies for Santa."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which reindeer is known for having a shiny red nose?",
+    "options": ["Comet", "Blitzen", "Rudolph", "Dasher"],
+    "answer": [2],
+    "explanation": "Rudolph is famous for his glowing red nose."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the Grinch’s dog in 'How the Grinch Stole Christmas'?",
+    "options": ["Rex", "Charlie", "Buddy", "Max"],
+    "answer": [3],
+    "explanation": "Max is the loyal dog of the Grinch."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which popular Christmas song was originally written for Thanksgiving?",
+    "options": ["Deck the Halls", "Jingle Bells", "O Holy Night", "Silent Night"],
+    "answer": [1],
+    "explanation": "'Jingle Bells' was originally written for Thanksgiving."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is Frosty the Snowman’s nose made of?",
+    "options": ["Carrot", "Coal", "Stick", "Button"],
+    "answer": [3],
+    "explanation": "Frosty's nose is a button, according to the song."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which saint is Santa Claus based on?",
+    "options": ["Saint Paul", "Saint Peter", "Saint Francis", "Saint Nicholas"],
+    "answer": [3],
+    "explanation": "Santa Claus is based on Saint Nicholas of Myra."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which plant is known as the 'Christmas flower'?",
+    "options": ["Holly", "Mistletoe", "Ivy", "Poinsettia"],
+    "answer": [3],
+    "explanation": "Poinsettias are widely associated with Christmas."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What do people traditionally place on top of a Christmas tree?",
+    "options": ["Candle", "Star", "Snowflake", "Bell"],
+    "answer": [1],
+    "explanation": "A star is commonly placed to represent the Star of Bethlehem."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas carol includes the lyrics 'Fall on your knees'?",
+    "options": ["O Holy Night", "Joy to the World", "Hark! The Herald Angels Sing", "Silent Night"],
+    "answer": [0],
+    "explanation": "'O Holy Night' includes the line 'Fall on your knees'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the snowman in 'Frozen'?",
+    "options": ["Frosty", "Olaf", "Sven", "Kristoff"],
+    "answer": [1],
+    "explanation": "Olaf is the friendly snowman in 'Frozen'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song holds the record for best-selling single of all time?",
+    "options": ["Silent Night", "All I Want for Christmas Is You", "White Christmas", "Jingle Bell Rock"],
+    "answer": [3],
+    "explanation": "Bing Crosby’s 'White Christmas' is the best-selling single ever."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is Santa Claus called in France?",
+    "options": ["Saint Noël", "Papa Noël", "Père Hiver", "Monsieur Christmas"],
+    "answer": [1],
+    "explanation": "In France, Santa is called 'Papa Noël'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What does the word 'Noel' mean in French?",
+    "options": ["Night", "Joy", "Snow", "Christmas"],
+    "answer": [3],
+    "explanation": "'Noel' means 'Christmas' in French."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which ocean is Christmas Island located in?",
+    "options": ["Arctic", "Indian", "Pacific", "Atlantic"],
+    "answer": [1],
+    "explanation": "Christmas Island is in the Indian Ocean."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the day after Christmas known as in the UK?",
+    "options": ["St. Stephen’s Day", "Boxing Day", "After Christmas Day", "Gift Day"],
+    "answer": [1],
+    "explanation": "December 26 is known as Boxing Day in the UK."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a character named Buddy?",
+    "options": ["Scrooged", "Elf", "The Santa Clause", "Jingle All the Way"],
+    "answer": [1],
+    "explanation": "Buddy is the main character in 'Elf'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which country is known for the tradition of the Yule Goat?",
+    "options": ["Sweden", "Norway", "Denmark", "Finland"],
+    "answer": [0],
+    "explanation": "The Yule Goat is a Swedish Christmas tradition."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is traditionally hidden in a Christmas pudding?",
+    "options": ["A ring", "A nut", "A coin", "A toy"],
+    "answer": [2],
+    "explanation": "A coin is traditionally hidden for good luck."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which reindeer comes first when Santa calls them out?",
+    "options": ["Prancer", "Dasher", "Vixen", "Dancer"],
+    "answer": [1],
+    "explanation": "Santa calls out 'Now, Dasher! Now, Dancer! Now, Prancer and Vixen!'"
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a boy left home alone?",
+    "options": ["The Polar Express", "The Santa Clause", "Home Alone", "Elf"],
+    "answer": [2],
+    "explanation": "'Home Alone' is about a boy accidentally left behind during Christmas."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What color are mistletoe berries?",
+    "options": ["Blue", "White", "Red", "Green"],
+    "answer": [1],
+    "explanation": "Mistletoe berries are white."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of Ebenezer Scrooge’s deceased business partner?",
+    "options": ["Tiny Tim", "Jacob Marley", "Bob Cratchit", "Fred"],
+    "answer": [1],
+    "explanation": "Jacob Marley is Scrooge’s ghostly former partner."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the magical train in 'The Polar Express'?",
+    "options": ["North Star Express", "Santa’s Sleigh", "Holiday Express", "The Polar Express"],
+    "answer": [3],
+    "explanation": "The train is called 'The Polar Express'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which U.S. state was the first to recognize Christmas as an official holiday?",
+    "options": ["New York", "Alabama", "Massachusetts", "Virginia"],
+    "answer": [1],
+    "explanation": "Alabama was the first U.S. state to declare Christmas a legal holiday in 1836."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the guardian angel in 'It’s a Wonderful Life'?",
+    "options": ["Gabriel", "Michael", "Clarence", "Harold"],
+    "answer": [2],
+    "explanation": "Clarence is the angel who helps George Bailey in the film."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which company is known for popularizing the modern image of Santa Claus in red?",
+    "options": ["Coca-Cola", "Pepsi", "Hallmark", "Nestlé"],
+    "answer": [0],
+    "explanation": "Coca-Cola's 1930s ads helped cement the red-suited Santa image."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What traditional Christmas decoration is actually a parasitic plant?",
+    "options": ["Holly", "Pine", "Mistletoe", "Ivy"],
+    "answer": [2],
+    "explanation": "Mistletoe is a parasitic plant often used in Christmas decorations."
+  },
+  {
+    "type": "singleSelect",
+    "question": "In which modern-day country was Saint Nicholas born?",
+    "options": ["Italy", "Turkey", "Greece", "Germany"],
+    "answer": [1],
+    "explanation": "Saint Nicholas was born in what is now Turkey."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the period leading up to Christmas?",
+    "options": ["Lent", "Advent", "Epiphany", "Yule"],
+    "answer": [1],
+    "explanation": "Advent is the season leading up to Christmas."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What color suit did Santa wear before red became popular?",
+    "options": ["White", "Blue", "Brown", "Green"],
+    "answer": [3],
+    "explanation": "Santa was often depicted in green before red became standard."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song contains the lyric 'Everyone dancing merrily in the new old-fashioned way'?",
+    "options": ["Rockin’ Around the Christmas Tree", "Jingle Bell Rock", "Let It Snow", "Winter Wonderland"],
+    "answer": [0],
+    "explanation": "That lyric is from 'Rockin’ Around the Christmas Tree'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which U.S. president banned Christmas trees in the White House?",
+    "options": ["Teddy Roosevelt", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+    "answer": [0],
+    "explanation": "Teddy Roosevelt banned them due to environmental concerns."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the animated Christmas special featuring a train ride to the North Pole?",
+    "options": ["The Polar Express", "Frosty Returns", "Santa’s Journey", "North Pole Express"],
+    "answer": [0],
+    "explanation": "'The Polar Express' is the animated film about a magical train ride."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the villain in 'The Nightmare Before Christmas'?",
+    "options": ["Jack Skellington", "Oogie Boogie", "Zero", "Sandy Claws"],
+    "answer": [1],
+    "explanation": "Oogie Boogie is the main antagonist in the film."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song was the first to be broadcast from space?",
+    "options": ["Jingle Bells", "Silent Night", "Deck the Halls", "White Christmas"],
+    "answer": [0],
+    "explanation": "Astronauts played 'Jingle Bells' in space in 1965."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the town in 'It’s a Wonderful Life'?",
+    "options": ["Maplewood", "Springfield", "Bedford Falls", "Riverdale"],
+    "answer": [2],
+    "explanation": "The story takes place in Bedford Falls."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the snowman brought to life by a magical hat?",
+    "options": ["Olaf", "Jack Frost", "Frosty", "Snowy"],
+    "answer": [2],
+    "explanation": "Frosty the Snowman is brought to life by a magic hat."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas tradition involves hanging socks by the fireplace?",
+    "options": ["Stockings", "Slippers", "Boots", "Scarves"],
+    "answer": [0],
+    "explanation": "Stockings are hung to be filled with gifts."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the elf who wants to be a dentist in 'Rudolph the Red-Nosed Reindeer'?",
+    "options": ["Hermey", "Elmer", "Blinky", "Jingles"],
+    "answer": [0],
+    "explanation": "Hermey is the elf who dreams of being a dentist."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas figure is known for punishing naughty children in European folklore?",
+    "options": ["Krampus", "Belsnickel", "Black Peter", "All of the above"],
+    "answer": [3],
+    "explanation": "All of these are figures from European folklore who punish misbehaving children."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the ballet traditionally performed at Christmas?",
+    "options": ["Swan Lake", "The Nutcracker", "Giselle", "Sleeping Beauty"],
+    "answer": [1],
+    "explanation": "'The Nutcracker' is a classic Christmas ballet."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What do the British call Santa Claus?",
+    "options": ["Father Christmas", "Saint Nick", "Old Man Winter", "Christmas Man"],
+    "answer": [0],
+    "explanation": "In the UK, Santa is commonly called Father Christmas."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song features the line 'Tis the season to be jolly'?",
+    "options": ["Jingle Bells","Deck the Halls", "We Wish You a Merry Christmas", "Joy to the World"],
+    "answer": [1],
+    "explanation": "That line is from 'Deck the Halls'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the reindeer whose name begins with a 'V'?",
+    "options": ["Victor", "Vixen", "Vlad", "Vesper"],
+    "answer": [1],
+    "explanation": "Vixen is one of Santa’s reindeer."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the holiday celebrated by some African Americans from December 26 to January 1?",
+    "options": ["Kwanzaa", "Hanukkah", "Diwali", "Festivus"],
+    "answer": [0],
+    "explanation": "Kwanzaa is a cultural holiday celebrated by many African Americans."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the snow-covered town in 'Dr. Seuss’ How the Grinch Stole Christmas'?",
+    "options": ["Snowtown", "Grinchville", "Northville", "Whoville"],
+    "answer": [3],
+    "explanation": "Whoville is the town the Grinch tries to ruin Christmas for."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Oh what fun it is to ride in a one-horse open sleigh'?",
+    "options": ["Winter Wonderland", "Jingle Bells", "Sleigh Ride", "Let It Snow"],
+    "answer": [1],
+    "explanation": "That line is from 'Jingle Bells'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the red-suited man who delivers presents on Christmas Eve?",
+    "options": ["Father Time", "Saint Patrick", "Jack Frost","Santa Claus"],
+    "answer": [3],
+    "explanation": "Santa Claus is the jolly gift-giver of Christmas Eve."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which country is known for the tradition of filling shoes with gifts on December 6?",
+    "options": ["Germany", "Italy", "Spain", "Netherlands"],
+    "answer": [3],
+    "explanation": "In the Netherlands, children leave shoes out for Sinterklaas to fill with gifts."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the holiday celebrated by Jewish people around the same time as Christmas?",
+    "options": ["Hanukkah", "Kwanzaa", "Diwali", "Ramadan"],
+    "answer": [0],
+    "explanation": "Hanukkah is the Jewish Festival of Lights celebrated in December."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song begins with 'Chestnuts roasting on an open fire'?",
+    "options": ["The Christmas Song", "Let It Snow", "Winter Wonderland", "White Christmas"],
+    "answer": [0],
+    "explanation": "'The Christmas Song' opens with that iconic line."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the animated character who tries to steal Christmas?",
+    "options": ["Scrooge", "Jack Frost", "The Grinch", "Oogie Boogie"],
+    "answer": [2],
+    "explanation": "The Grinch is the character who tries to steal Christmas."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which country celebrates 'La Befana' on January 6?",
+    "options": ["Spain", "Italy", "France", "Portugal"],
+    "answer": [1],
+    "explanation": "In Italy, La Befana delivers gifts on Epiphany."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the holiday celebrated in Seinfeld as an alternative to Christmas?",
+    "options": ["Grinchmas", "Yule","Festivus",  "Winterfest"],
+    "answer": [2],
+    "explanation": "Festivus is the fictional holiday from Seinfeld."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a department store Santa who claims to be the real thing?",
+    "options": ["Miracle on 34th Street", "The Santa Clause", "Elf", "Home Alone"],
+    "answer": [0],
+    "explanation": "'Miracle on 34th Street' centers on a man who says he's Santa Claus."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the reindeer whose name rhymes with 'Cupid'?",
+    "options": ["Rudolph", "Blitzen", "Vixen", "Dupid"],
+    "answer": [2],
+    "explanation": "Vixen rhymes with Cupid and is one of Santa’s reindeer."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song features the line 'City sidewalks, busy sidewalks, dressed in holiday style'?",
+    "options": ["Silver Bells", "White Christmas", "Jingle Bell Rock", "Let It Snow"],
+    "answer": [0],
+    "explanation": "That line is from 'Silver Bells'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the creature who helps the Grinch in the 2000 movie?",
+    "options": ["Max", "Cindy Lou", "Martha May", "Mayor Who"],
+    "answer": [0],
+    "explanation": "Max is the Grinch’s loyal dog."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas tradition involves counting down the days with small gifts or chocolates?",
+    "options": ["Advent calendar", "Stocking stuffer", "Yule log", "Gift exchange"],
+    "answer": [0],
+    "explanation": "Advent calendars count down the days to Christmas with treats."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song was written by Irving Berlin?",
+    "options": ["Jingle Bells", "Silent Night", "Deck the Halls","White Christmas"],
+    "answer": [3],
+    "explanation": "Irving Berlin wrote 'White Christmas'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the island nation that celebrates Christmas with a barbecue on the beach?",
+    "options": ["New Zealand", "Australia", "Fiji", "Hawaii"],
+    "answer": [1],
+    "explanation": "Australians often celebrate Christmas with beach barbecues."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas figure rides a goat instead of a sleigh in some traditions?",
+    "options": ["Santa Claus", "Father Christmas", "Yule Goat", "Tomte"],
+    "answer": [2],
+    "explanation": "The Yule Goat is a Scandinavian tradition."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a boy who receives a bell from Santa’s sleigh?",
+    "options": ["Elf", "The Polar Express", "Home Alone", "The Santa Clause"],
+    "answer": [1],
+    "explanation": "In 'The Polar Express', the boy receives a bell from Santa’s sleigh."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Peace on earth and mercy mild'?",
+    "options": ["Hark! The Herald Angels Sing", "Silent Night", "Joy to the World", "O Holy Night"],
+    "answer": [0],
+    "explanation": "That line is from 'Hark! The Herald Angels Sing'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "What is the name of the holiday celebrated in Mexico with candlelit processions and piñatas?",
+    "options": ["Las Posadas", "Día de los Reyes", "Navidad", "Nochebuena"],
+    "answer": [0],
+    "explanation": "Las Posadas is a Mexican Christmas tradition."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song features the line 'All is calm, all is bright'?",
+    "options": ["Silent Night", "O Holy Night", "Joy to the World", "Away in a Manger"],
+    "answer": [0],
+    "explanation": "That line is from 'Silent Night'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a character who turns into Santa Claus after putting on a suit?",
+    "options": ["Elf", "Fred Claus","The Santa Clause",  "Arthur Christmas"],
+    "answer": [2],
+    "explanation": "'The Santa Clause' stars Tim Allen as a man who becomes Santa."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which reindeer’s name starts with a 'C'?",
+    "options": ["Comet", "Chuck", "Clarence", "Crimson"],
+    "answer": [0],
+    "explanation": "Comet is one of Santa’s reindeer."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas tradition involves exchanging gifts anonymously?",
+    "options": ["Secret Santa", "White Elephant", "Stocking Swap", "Mystery Giver"],
+    "answer": [0],
+    "explanation": "Secret Santa is a popular anonymous gift exchange."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'He sees you when you're sleeping'?",
+    "options": ["Santa Claus Is Coming to Town", "Jingle Bells", "Let It Snow", "Frosty the Snowman"],
+    "answer": [0],
+    "explanation": "That line is from 'Santa Claus Is Coming to Town'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas figure is known for sliding down chimneys?",
+    "options": ["Santa Claus", "Krampus", "The Grinch", "Father Time"],
+    "answer": [0],
+    "explanation": "Santa Claus is known for entering homes via chimneys."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song features the line 'Oh come let us adore Him'?",
+    "options": ["O Come All Ye Faithful", "Joy to the World", "Silent Night", "O Holy Night"],
+    "answer": [0],
+    "explanation": "That line is from 'O Come All Ye Faithful'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Ringing through the sky so bright'?",
+    "options": ["Do You Hear What I Hear?", "Silver Bells", "Jingle Bell Rock", "O Holy Night"],
+    "answer": [0],
+    "explanation": "That line is from 'Do You Hear What I Hear?'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a character named Kevin McCallister?",
+    "options": ["Elf", "Home Alone", "The Santa Clause", "Miracle on 34th Street"],
+    "answer": [1],
+    "explanation": "Kevin McCallister is the main character in 'Home Alone'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Let your heart be light'?",
+    "options": ["Have Yourself a Merry Little Christmas", "Silent Night", "Joy to the World", "Deck the Halls"],
+    "answer": [0],
+    "explanation": "That line is from 'Have Yourself a Merry Little Christmas'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which reindeer’s name starts with a 'B'?",
+    "options": ["Blitzen", "Bambi", "Buddy", "Boris"],
+    "answer": [0],
+    "explanation": "Blitzen is one of Santa’s reindeer."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'In the meadow we can build a snowman'?",
+    "options": ["Winter Wonderland", "Let It Snow", "Jingle Bells", "Frosty the Snowman"],
+    "answer": [0],
+    "explanation": "That line is from 'Winter Wonderland'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a magical snow globe?",
+    "options": ["The Santa Clause", "Jack Frost", "Snow Day", "The Christmas Chronicles"],
+    "answer": [3],
+    "explanation": "'The Christmas Chronicles' features a magical snow globe."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Come they told me, pa rum pum pum pum'?",
+    "options": ["Little Drummer Boy", "O Holy Night", "Silent Night", "Deck the Halls"],
+    "answer": [0],
+    "explanation": "That line is from 'Little Drummer Boy'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas figure is known for flying through the sky with reindeer?",
+    "options": ["Jack Frost","Santa Claus",  "The Grinch", "Father Time"],
+    "answer": [1],
+    "explanation": "Santa Claus flies through the sky with his reindeer."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Joyful all ye nations rise'?",
+    "options": ["Hark! The Herald Angels Sing", "Joy to the World", "O Come All Ye Faithful", "Silent Night"],
+    "answer": [0],
+    "explanation": "That line is from 'Hark! The Herald Angels Sing'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a character named Scott Calvin?",
+    "options": ["The Santa Clause", "Elf", "Home Alone", "Miracle on 34th Street"],
+    "answer": [0],
+    "explanation": "Scott Calvin becomes Santa Claus in 'The Santa Clause'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Sleep in heavenly peace'?",
+    "options": ["Silent Night", "O Holy Night", "Away in a Manger", "Joy to the World"],
+    "answer": [0],
+    "explanation": "That line is from 'Silent Night'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas tradition involves lighting candles on a wreath?",
+    "options": ["Advent", "Hanukkah", "Kwanzaa", "Yule"],
+    "answer": [0],
+    "explanation": "Advent wreaths are lit in the weeks leading up to Christmas."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'A thrill of hope, the weary world rejoices'?",
+    "options": ["O Holy Night", "Silent Night", "Joy to the World", "O Come All Ye Faithful"],
+    "answer": [0],
+    "explanation": "That line is from 'O Holy Night'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a sleigh powered by Christmas spirit?",
+    "options": ["Elf", "The Santa Clause", "The Polar Express", "Home Alone"],
+    "answer": [0],
+    "explanation": "In 'Elf', Santa’s sleigh is powered by Christmas spirit."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Glory to the newborn King'?",
+    "options": ["Hark! The Herald Angels Sing", "Joy to the World", "O Holy Night", "Silent Night"],
+    "answer": [0],
+    "explanation": "That line is from 'Hark! The Herald Angels Sing'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas figure is known for checking a list twice?",
+    "options": ["The Grinch", "Jack Frost", "Father Christmas","Santa Claus"],
+    "answer": [3],
+    "explanation": "Santa Claus checks his list twice to find out who’s naughty or nice."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Let it snow, let it snow, let it snow'?",
+    "options": ["Winter Wonderland", "Jingle Bells", "White Christmas","Let It Snow"],
+    "answer": [3],
+    "explanation": "That line is from 'Let It Snow'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a character named Bernard the Elf?",
+    "options": ["The Santa Clause", "Elf", "Arthur Christmas", "Fred Claus"],
+    "answer": [0],
+    "explanation": "Bernard is the head elf in 'The Santa Clause'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Walking in a winter wonderland'?",
+    "options": ["Winter Wonderland", "Let It Snow", "Jingle Bells", "White Christmas"],
+    "answer": [0],
+    "explanation": "That line is from 'Winter Wonderland'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas figure is known for living at the North Pole?",
+    "options": ["Santa Claus", "The Grinch", "Jack Frost", "Father Time"],
+    "answer": [0],
+    "explanation": "Santa Claus is said to live at the North Pole."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'All I want for Christmas is you'?",
+    "options": ["All I Want for Christmas Is You", "Jingle Bell Rock", "Let It Snow", "Winter Wonderland"],
+    "answer": [0],
+    "explanation": "That line is from Mariah Carey’s hit song."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas movie features a character named Cindy Lou Who?",
+    "options": ["How the Grinch Stole Christmas", "Elf", "The Santa Clause", "Home Alone"],
+    "answer": [0],
+    "explanation": "Cindy Lou Who is a character in 'How the Grinch Stole Christmas'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'Rockin’ around the Christmas tree'?",
+    "options": ["Rockin’ Around the Christmas Tree", "Jingle Bell Rock", "Let It Snow", "Winter Wonderland"],
+    "answer": [0],
+    "explanation": "That line is from 'Rockin’ Around the Christmas Tree'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas figure is known for riding a sleigh pulled by reindeer?",
+    "options": ["Santa Claus", "Jack Frost", "The Grinch", "Krampus"],
+    "answer": [0],
+    "explanation": "Santa Claus rides a sleigh pulled by reindeer."
+  },
+  {
+    "type": "singleSelect",
+    "question": "Which Christmas song includes the line 'May your days be merry and bright'?",
+    "options": ["White Christmas", "Let It Snow", "Winter Wonderland", "Jingle Bells"],
+    "answer": [0],
+    "explanation": "That line is from 'White Christmas'."
+  },
+  {
+    "type": "singleSelect",
+    "question": "According to the poem \\\"Twas the Night Before Christmas\\\" (also known as \\\"A Visit from St. Nicholas\\\"), how many reindeer pull Santa's sleigh?",
+    "options": ["Eight", "Nine", "Seven", "Twelve"],
+    "answer": [0],
+    "explanation": "The poem lists Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner and Blitzen — eight reindeer. Rudolph was added later."
+  }
+]
+
